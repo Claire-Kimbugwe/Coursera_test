@@ -1,2 +1,2 @@
 # Coursera_test
-This is a test repo
+Predict Peer Graded Assignments
